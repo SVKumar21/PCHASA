@@ -247,7 +247,7 @@ class Main {
                                     "<html><h3><u>Patient-Centric Hospital Appointment Scheduling System</u> - VNR VJIET</h3>\r\n"
                                             + //
                                             "\r\n" + //
-                                            "<h5>In the realm of operating systems, we a dynamic team of four talented individuals, Varshit, Nisritha, Keerthana, and Sathish, collaboratively embarked on a transformative project named \"Patient-Centric Hospital Appointment Scheduling System.\" The project, a culmination of our efforts in an Operating System course, serves as a testament to our dedication and proficiency.</h5>\r\n"
+                                            "<h5>In the realm of operating systems, we a dynamic team of four talented individuals, Varshith, Nisritha, Keerthana, and Sathish, collaboratively embarked on a transformative project named \"Patient-Centric Hospital Appointment Scheduling System.\" The project, a culmination of our efforts in an Operating System course, serves as a testament to our dedication and proficiency.</h5>\r\n"
                                             + //
                                             "\r\n" + //
                                             "<h3><u>Algorithms at Play:</u></h3><h5>FCFS and Priority Scheduling</h5>\r\n"
@@ -264,7 +264,7 @@ class Main {
                                             "<h3><u>Team Members:</u></h3>\r\n" + //
                                             "<h5>Keerthana,\r\n" + //
                                             "Nisritha,\r\n" + //
-                                            "Varshit Kumar,\r\n" + //
+                                            "Varshith Kumar,\r\n" + //
                                             "Sathish.</h5></html>");
                             team_description.setBounds(10, 10, 990, 540);
                             Panel.add(team_description);
